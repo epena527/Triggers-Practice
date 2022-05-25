@@ -1,4 +1,4 @@
-#Trigger 'INS' / 'DEL'</h1>
+<h1>Trigger 'INS' / 'DEL'</h1>
 
 <h2>Description</h2>
 Project consists of creating 2 tables in the SAMPLE database. Then, creating a after insert and delete trigger on orders that populates the orderlog table
