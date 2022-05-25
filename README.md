@@ -1,5 +1,3 @@
-# Triggers-Practice
-
 <h1>Trigger 'INS' / 'DEL'</h1>
 
 <h2>Description</h2>
